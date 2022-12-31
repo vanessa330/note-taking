@@ -1,0 +1,3 @@
+# Note Taking
+
+- Vanilla Javascript
