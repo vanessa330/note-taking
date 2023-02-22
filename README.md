@@ -1,4 +1,4 @@
 # Note Taking
 
-- Vanilla Javascript
+- Javascript
 - JSON local storage

@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=Efo7nIUF2JY
-
 const notesContainer = document.getElementById("app");
 const addNoteButton = notesContainer.querySelector(".add-note");
 
